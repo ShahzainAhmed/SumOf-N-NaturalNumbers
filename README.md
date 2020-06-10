@@ -21,5 +21,5 @@
 ## Keep the following concepts in mind to understand this program: 
 - Variables.
 - Input statement.
--
+- While loops.
 -
