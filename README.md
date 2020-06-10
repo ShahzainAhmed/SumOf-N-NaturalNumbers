@@ -15,5 +15,5 @@
 - User must enter the number of natural numbers to find the sum of.
 - The sum variable is initialized to 0.
 - The while loop is used to find the sum of natural numbers and the number is decremented for each iteration.
--
+- The numbers are added to the sum variable and this continues till the value of the variable is greater than 0.
 
