@@ -13,7 +13,7 @@
 
 ## Program Explanation: 
 - User must enter the number of natural numbers to find the sum of.
--
+- The sum variable is initialized to 0.
 -
 -
 
