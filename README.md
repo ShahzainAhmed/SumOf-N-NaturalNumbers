@@ -10,3 +10,6 @@
 - Use a while loop to find the sum of natural numbers and decrement the number for each iteration.
 - The numbers are added to the sum variable and this continues until the the value of the number is greater than 0.
 - Then the sum of first N natural numbers is printed.
+
+## Program Explanation: 
+- 
