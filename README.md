@@ -22,4 +22,4 @@
 - Variables.
 - Input statement.
 - While loops.
--
+- Print statement.
