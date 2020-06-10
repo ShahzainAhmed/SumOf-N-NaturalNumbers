@@ -16,4 +16,4 @@
 - The sum variable is initialized to 0.
 - The while loop is used to find the sum of natural numbers and the number is decremented for each iteration.
 - The numbers are added to the sum variable and this continues till the value of the variable is greater than 0.
-
+- When the value of the variable becomes lesser than 0, the total sum of N natural numbers is printed.
