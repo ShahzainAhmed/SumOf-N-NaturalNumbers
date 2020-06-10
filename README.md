@@ -6,4 +6,4 @@
 
 ## Problem Solution:
 - Take in the number of natural numbers to find the sum of and store it in a separate variable.
-
+- Initialize the sum variable to 0.
