@@ -1,2 +1,2 @@
 # Sum of N Natural Numbers:
-program to find the sum of N natural numbers.
+## This is a Python Program to find the sum of first N Natural Numbers.
