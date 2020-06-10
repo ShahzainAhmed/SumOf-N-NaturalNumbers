@@ -12,4 +12,8 @@
 - Then the sum of first N natural numbers is printed.
 
 ## Program Explanation: 
-- 
+- User must enter the number of natural numbers to find the sum of.
+-
+-
+-
+
