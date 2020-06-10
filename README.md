@@ -19,6 +19,7 @@
 - When the value of the variable becomes lesser than 0, the total sum of N natural numbers is printed.
 
 ## Keep the following concepts in mind to understand this program: 
+- Variables.
 - Input statement.
 -
 -
