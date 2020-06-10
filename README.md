@@ -7,3 +7,4 @@
 ## Problem Solution:
 - Take in the number of natural numbers to find the sum of and store it in a separate variable.
 - Initialize the sum variable to 0.
+- Use a while loop to find the sum of natural numbers and decrement the number for each iteration.
