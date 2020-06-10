@@ -1,4 +1,5 @@
-n=int(input("Enter a number: "))
+# Taking input from the user.
+n = int(input("Enter a number: "))
 sum1 = 0
 while(n > 0):
     sum1=sum1+n
